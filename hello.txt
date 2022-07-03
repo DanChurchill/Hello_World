@@ -1,4 +1,4 @@
 Hello, World!
 Now I'm adding a second line of content
 
-Adding line to try pulling to local machine
+Adding line to try pulling to local machine.
