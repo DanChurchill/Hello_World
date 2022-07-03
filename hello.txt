@@ -1,4 +1,8 @@
 Hello, World!
 Now I'm adding a second line of content
 
+<<<<<<< HEAD
 and a third
+=======
+Adding line to try pulling to local machine.
+>>>>>>> 18e5ff440dc363190a3b91d4694071402e71d29e
